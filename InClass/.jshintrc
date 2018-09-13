@@ -1,0 +1,10 @@
+{
+  "asi": true,
+  "reversion": 6,
+  "strict": "implied",
+  "globals": {
+    "Vue": true,
+    "moment": true
+  }
+}
+}

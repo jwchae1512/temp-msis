@@ -24,6 +24,13 @@
 		margin-top: 0;
 
 	}
+	#tasktable > tbody > tr{
+		border-left: 12px sold  #eee;
+	}
+	#tasktable > tbody > tr.current-sprint{
+		border-left:12px solid rgb(35, 95, 163);
+
+	}
 /** tablesort **/
 th[role=columnheader]:not(.no-sort) {
 	cursor: pointer;
